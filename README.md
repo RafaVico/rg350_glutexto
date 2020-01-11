@@ -1,7 +1,9 @@
 glutexto fork
 ============
 
-This is a version for RG350.
+This is a version for RG350.<br>
+
+<img src="screenshots/screenshot002.png" alt="image">
 
 A very simple text editor for gp2x, wiz, caanoo and gcw. It is meant to edit a
 config file, maybe adding a # here and there to comment things in and out. Don't
